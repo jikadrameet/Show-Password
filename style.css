@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    block-size: border-box;
+
+}
+html,body{
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(rgb(118, 8, 235),rgb(93, 15, 177));
+}
+.Input-fild{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20em;
+
+}
+.input{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.eye{
+    width: 3vw;
+    height: 8vh;
+}
